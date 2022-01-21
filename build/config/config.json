@@ -1,19 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0x38aEEAf64cB5ee864657F28fC4aDc5c089F9992c",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x38aEEAf64cB5ee864657F28fC4aDc5c089F9992c",
+  "CONTRACT_ADDRESS": "0xC9F86Ce850C9C30cAc0641f0A8E604B6Bd742796",
+  "SCAN_LINK": "https://etherscan.io/address/0xC9F86Ce850C9C30cAc0641f0A8E604B6Bd742796",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "The Secret Society of the Test Monkey",
   "SYMBOL": "SSTM",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 80000000000000000,
-  "DISPLAY_COST": 0.08,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thesecretsocietyofthebadmonkey",
   "SHOW_BACKGROUND": true
 }
 
