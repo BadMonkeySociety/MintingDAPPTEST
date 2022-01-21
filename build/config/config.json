@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "The Secret Society of the Test Monkey",
-  "SYMBOL": "SSTM",
+  "NFT_NAME": "The Secret Society of the Bad Monkey",
+  "SYMBOL": "SSBM",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 250000000000000000,
   "DISPLAY_COST": 0.25,
